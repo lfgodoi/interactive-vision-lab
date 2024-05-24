@@ -5,9 +5,9 @@ A fullstack project that brings together image processing and analysis technique
 
 A fullstack project that brings together image processing and analysis techniques through an interactive platform.
 
-Developer: _Leonardo Franco de Godói
-GitHub profile: https://github.com/lfgodoi_
-Contact: _eng.leonardogodoi@gmail.com_
+- Developer: _Leonardo Franco de Godói_
+- GitHub profile: _https://github.com/lfgodoi_
+- Contact: _eng.leonardogodoi@gmail.com_
 
 ### Running the app directly
 
